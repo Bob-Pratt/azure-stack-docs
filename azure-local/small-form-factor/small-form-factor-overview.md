@@ -42,7 +42,7 @@ The following table describes the key features of small form factor deployments.
 
 | Feature | Description |
 | --------------------------------- | ----------------------------------------------- |
-| Zero-touch provisioning (ZTP)     | Deploy consistent software across large fleets of devices by using a secure, FDO-compliant supply chain.   |
+| Zero-touch provisioning (ZTP)     | Provision an operating system remotly without a tech having to be physically at the site and running a manual setup. |
 | Arc gateway URL management        | Provide cloud-native applications with a predictable set of URLs by using a built-in HTTP tunnel to Azure. |
 | Secure, signed OS kernel          | Run a host operating system built with signed Microsoft packages and security updates.                     |
 | Docker included in the base image | Start running containerized workloads without installing a separate container runtime.                     |
