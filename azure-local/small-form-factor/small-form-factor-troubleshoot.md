@@ -15,9 +15,9 @@ This article describes how to troubleshoot small form factor deployments of Azur
 
 [!INCLUDE [hci-preview](../includes/hci-preview.md)]
 
-## Collect a support package from the app
+## Collect a support package from the Configurator app
 
-A log package is composed of all the relevant logs that can help Microsoft Support troubleshoot any device issues. You can generate a log package via the local web UI. Follow these steps to collect a support package from the app:
+A log package is composed of all the relevant logs that can help Microsoft Support troubleshoot any device issues. You can generate a log package via the local web UI. Follow these steps to collect a support package from the Configurator app:
 
 1. Select the help icon in the top-right corner of the app to open **Support + troubleshooting**.
 
